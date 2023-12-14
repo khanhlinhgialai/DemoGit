@@ -19,11 +19,7 @@ Hotel Khánh Linh
        HOME
     </li>
     </Link>
-    <Link href="">
-    <li className="hover:text-blue-400 hover:underline duration-200">
-       Destinations
-    </li>
-    </Link>
+   
     <Link href="">
     <li className="hover:text-blue-400 hover:underline duration-200">
        Travel
