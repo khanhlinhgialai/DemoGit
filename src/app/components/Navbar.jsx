@@ -39,11 +39,7 @@ Hotel Khánh Linh
        ROOM
     </li>
     </Link>
-    <Link href="">
-    <li>
-       BOOK
-    </li>
-    </Link>
+
 </ul>
 <div className="hidden md:flex gap-10" >
 
